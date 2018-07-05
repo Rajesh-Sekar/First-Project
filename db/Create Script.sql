@@ -1,0 +1,1 @@
+Create table users (Surname VarChar(50), Forename Varchar(50), BirthDate datetime, Email varchar(50), Password Varchar(50), Gender varchar(20), Country Varchar(50))
